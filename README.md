@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 * Python 3.9.7
 * scikit-learn 1.0.2
 * xgboost 1.5.1
@@ -38,3 +39,6 @@ from the base folder: go to :- cd SentimentBasedProductRecommendation-main
 
 
 
+=======
+# Sentiment-Analysis
+>>>>>>> cde9816ca1c7f7d65c293c5577d21c06f48d22df
