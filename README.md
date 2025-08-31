@@ -30,14 +30,3 @@ from the base folder: go to :- cd SentimentBasedProductRecommendation-main
 
 3) this will give a localhost : run on your browser to use it: 
 
-
-
-#  if any conflict occurs ensure your ML model and flask model have same version of packages:
-
-
-
-
-
-=======
-# Sentiment-Analysis
->>>>>>> cde9816ca1c7f7d65c293c5577d21c06f48d22df
