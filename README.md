@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 * Python 3.9.7
 * scikit-learn 1.0.2
 * xgboost 1.5.1
